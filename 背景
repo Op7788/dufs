@@ -1,0 +1,5 @@
+<style>
+  body {
+    background-image: url('https://www.example.com/images/background.jpg');
+  }
+</style>
